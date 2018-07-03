@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="holder for library settings">
+
+</language>
+<language name="Assembly">
+
+</language>
+<language name="GNU C++">
+
+</language>
+<language name="GNU C">
+<includepath>D:\ProgramFiles\AVR Tools\AVR Toolchain\avr\include</includepath>
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="holder for library settings">
+
+</language>
+<language name="Assembly">
+
+</language>
+<language name="GNU C++">
+
+</language>
+<language name="GNU C">
+<macro>
+<name>__AVR_ATmega32__</name><value/>
+</macro>
+<macro>
+<name>F_CPU</name><value>16000000ul</value>
+</macro>
+<macro>
+<name>CAN_APP</name><value/>
+</macro>
+
+</language>
+</section>
+</cdtprojectproperties>
