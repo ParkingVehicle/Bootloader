@@ -3,7 +3,7 @@ import time
 import serial
 from threading import Thread
 
-COM_PORT = 'COM3'
+COM_PORT = 'COM6'
 
 def to_bytes(n, length, endianess='big'):
 	h = '%x' % n
