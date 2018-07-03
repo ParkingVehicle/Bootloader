@@ -1,1 +1,15 @@
-serial/
+ATmegaBOOT.bin
+ATmegaBOOT.elf
+ATmegaBOOT.hex
+ATmegaBOOT.lst
+ATmegaBOOT.map
+ATmegaBOOT.o
+ATmegaBOOT.s
+ATmegaBOOT.srec
+Document.hex
+read_hex.py
+serial/__init__.pyc
+serial/serialutil.pyc
+serial/serialwin32.pyc
+serial/win32.pyc
+text.txt
